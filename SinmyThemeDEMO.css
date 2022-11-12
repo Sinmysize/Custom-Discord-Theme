@@ -1,0 +1,111 @@
+.theme-dark {
+    --header-primary: #e7d3ff;
+    --header-secondary: rgb(189, 135, 255);
+    --text-normal: rgb(193, 145, 252);
+    --text-link: rgba(132, 0, 255, 0.993);
+    --text-muted: rgba(189,135,255,0.6136363636363636);
+    --background-primary: rgb(2, 2, 2);
+    --background-secondary: rgb(3, 3, 3);
+    --background-secondary-alt: rgb(5, 5, 5);
+    --background-tertiary: rgb(5, 5, 5);
+    --chat-input-container-background: black;
+    --background-modifier-hover: rgba(189, 135, 255, 0.281);
+    --scrollbar-thin-track: black;
+    --scrollbar-thin-thumb: rgba(189,135,255,0.6136363636363636);
+    --scrollbar-auto-thumb: rgba(189,135,255,0.6136363636363636);
+    --scrollbar-auto-track: black;
+    --status-green-600: rgba(189,135,255,0.6136363636363636);
+    --status-green-660: rgba(189,135,255,0.6136363636363636);
+    --interactive-hover: rgb(235, 191, 255);
+    --interactive-active: rgb(255, 255, 255);
+    --interactive-muted: red;
+    --text-brand: red;
+    --chat-border: red;
+    --chat-background: red;
+}
+
+.overflow-1wOqNV {
+    color: rgb(208, 170, 255)
+}
+
+.brand-3g5E0C.item-3XjbnG, .themed-2-lozF.item-3XjbnG {
+    color: rgb(184, 125, 255);
+}
+
+.header-2Kx1US {
+    color: rgb(225, 203, 253)
+}
+
+.lookFilled-yCfaCM.colorBrand-I6CyqQ{
+    background-color: rgb(189, 135, 255);
+}
+
+svg {
+    color: white;
+    
+}
+
+path {
+    color: rgb(189, 135, 255);
+}
+
+
+
+.cozy-VmLDNB .messageContent-2t3eCI:hover {
+    color: rgba(132, 0, 255, 0.993); 
+    transition-duration: 0.4s;  
+}
+
+.avatar-2e8lTP.clickable-31pE3P {
+    border: solid;
+    border-color: rgb(219, 191, 253);
+    transition-duration: 0.4s;
+}
+
+.avatar-2e8lTP.clickable-31pE3P:hover {
+    border-color:rgba(132, 0, 255, 0.993);
+    animation: Spin 5s infinite;
+    box-shadow: 0px 0px 15px blueviolet;
+}
+
+@keyframes Spin {
+    100% {
+            
+        }
+}
+
+.wordmark-2u86JB:after {
+    content: url(https://cdn.discordapp.com/attachments/635656154055442433/1040125672984686633/Add_a_heading_2.png);
+    border-radius: 20px;
+    float: left
+
+}
+
+.typeWindows-2-g3UY {
+    background-color:black;
+    
+}
+
+.withFrame-2dL45i {
+    height: 60px;
+}
+
+.titlebar-1it3bQ {
+    color: black
+}
+
+g {
+    opacity: ;
+}
+.link-39sEB3:hover {
+    background-color: rgba(216, 187, 255, 0.568);
+    transition-duration: 0.5s;
+    border-radius: 5px;
+    
+    
+}
+   
+.username-h_Y3Us:hover {
+    color: rgb(146, 51, 255);
+    transition-duration: 0.4s;
+}
